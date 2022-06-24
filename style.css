@@ -1,0 +1,33 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 25px;
+	font-weight:bolder;
+	color:pink;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+#draw_btn
+{
+	background-color:pink;
+	border-color:rgb(245, 154, 169);
+	border-width:5px;
+	border-style: solid;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 25px;
+	font-weight:bold;
+}
+#heading1
+{
+	font-size: 45px;
+	font-family: 'Courier New', Courier, monospace;
+	color:pink;
+	font-weight: bolder;
+}
